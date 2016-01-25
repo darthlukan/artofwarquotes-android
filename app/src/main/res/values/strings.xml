@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Art of War Quotes</string>
+    <string name="action_about">About</string>
+    <string name="quote_text">Press the button to get a quote!</string>
+    <string name="dialog_title">About</string>
+    <string name="dialog_message">Art of War Quotes Android\nAuthor: Brian Tomlinson\nContact: darthlukan@gmail.com\nLicense: GPLv2</string>
+    <string name="ok">OK</string>
+</resources>
