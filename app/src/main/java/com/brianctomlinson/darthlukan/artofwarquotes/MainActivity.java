@@ -23,7 +23,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "Art of War Quotes";
+    private static final String TAG = "@string/app_name";
     private TextView quote_view;
     private String quote_text;
 
